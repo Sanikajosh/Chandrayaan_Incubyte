@@ -1,5 +1,5 @@
 # Chandrayaan_Incubyte
-task is to desigThe program enables Chandrayaan 3 to execute Move, Turn and Turn(up/down) commands accurately and efficiently in the vast expanse of the galaxy.
+Task is to design the program enables Chandrayaan 3 to execute Move, Turn and Turn(up/down) commands accurately and efficiently in the vast expanse of the galaxy.
 
 
 To create a program that translates commands sent from Earth into instructions understood by the Chandrayaan 3 spacecraft, you can use C++ to implement the functionalities 
